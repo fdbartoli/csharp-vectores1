@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "integrador1Vectores/1.0.0": {
+        "runtime": {
+          "integrador1Vectores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "integrador1Vectores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
